@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhagwanprasai
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c, c++, python, java
+- 🌱 I’m currently learning python, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhagwan.prasai444@gmail.com
 
