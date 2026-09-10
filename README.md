@@ -6,11 +6,11 @@
 
 **Final-year Computer Engineering student @ Kantipur Engineering College** · 📍 Kathmandu, Nepal
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bhagwanp.com.np-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://bhagwanp.com.np/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhagwanp.com.np-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhagwanp.com.np/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagwan.prasai444@gmail.com)
 [![X](https://img.shields.io/badge/X-@MR__God-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MR_God)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Blog](https://img.shields.io/badge/Blog-🚧%20WIP-FF8800?style=for-the-badge&logo=hashnode&logoColor=white)](https://YOUR-BLOG-URL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagwanprasai)
+[![Blog](https://img.shields.io/badge/Blog-🚧%20WIP-FF8800?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.bhagwanp.com.np)
 
 </div>
 
@@ -25,14 +25,12 @@ education: B.E. Computer Engineering, Kantipur Engineering College (2023–2027)
 currently_building:
   - 🔬 LungARC — 3D lung nodule analysis on longitudinal CT scans (PyTorch + MONAI)
   - ☁️ CloudStudy — cloud-native microservices suite in ASP.NET Core + LocalStack
-published: Hybrid CRNN + Seq2Seq Bahdanau attention for HTR → 13.59% WER on IAM
-  📄 https://doi.org/10.3126/injet.v3i2.95148
+published: Hybrid CRNN + Seq2Seq Bahdanau attention HTR → 13.59% WER on IAM
+  paper: https://doi.org/10.3126/injet.v3i2.95148
 learning: AWS Cloud Practitioner · Cybersecurity Fundamentals
 open_to: ML Engineering · Cloud-Native · Backend roles (Nepal & remote)
 motto: "Driven by passion, powered by code ⚡"
 ```
-
----
 
 ---
 
@@ -68,7 +66,7 @@ motto: "Driven by passion, powered by code ⚡"
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagwanprasai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="95%" alt="activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagwanprasai&theme=nord" width="95%" alt="contribution timeline" />
 
 </div>
 
@@ -77,7 +75,7 @@ motto: "Driven by passion, powered by code ⚡"
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhagwanprasai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=bhagwanprasai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6&cache_bust=2" alt="trophies" />
 </div>
 
 ---
@@ -96,7 +94,6 @@ motto: "Driven by passion, powered by code ⚡"
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-bhagwanp.com.np-00E5FF?style=for-the-badge&logoColor=black)](https://bhagwanp.com.np/)
 [![Email](https://img.shields.io/badge/📫%20Email-bhagwan.prasai444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagwan.prasai444@gmail.com)
 [![X](https://img.shields.io/badge/𝕏-@MR__God-000000?style=for-the-badge)](https://x.com/MR_God)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhagwan%20Prasai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagwanprasai)
