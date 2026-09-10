@@ -64,18 +64,6 @@ motto: "Driven by passion, powered by code ⚡"
 
 <img src="https://streak-stats.demolab.com?user=bhagwanprasai&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagwanprasai&theme=nord" width="95%" alt="contribution timeline" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhagwanprasai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6&cache_bust=2" alt="trophies" />
 </div>
 
 ---
