@@ -1,0 +1,14 @@
+{
+  "type": "season",
+  "fileName": "profile-cyan-animate.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#00e5ff",
+  "weakColor": "#586274",
+  "radarColor": "#00e5ff",
+  "growingAnimation": true,
+  "contribColors1": ["#161b22", "#0e7490", "#00a8c8", "#00e5ff", "#7df9ff"],
+  "contribColors2": ["#161b22", "#0e7490", "#00a8c8", "#00e5ff", "#7df9ff"],
+  "contribColors3": ["#161b22", "#0e7490", "#00a8c8", "#00e5ff", "#7df9ff"],
+  "contribColors4": ["#161b22", "#0e7490", "#00a8c8", "#00e5ff", "#7df9ff"]
+}
